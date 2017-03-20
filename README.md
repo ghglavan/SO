@@ -1,6 +1,6 @@
 # SO
 
-Here are some of the projects that helped me understand linux pipes, IPCs and files structure.
+Here are some of the projects that helped me understand Linux pipes, IPCs and files structure.
 
 ### Directory traversal
 
