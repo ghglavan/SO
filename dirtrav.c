@@ -162,11 +162,11 @@ int main(int argc, char **argv){
 
 	afis = (int*)malloc(100*sizeof(int));
 
-	char s[100];
+	//char s[100];
 
-	scanf("%s",s);
+	//scanf("%s",s);
 
-	dfspedirectoare(s);
+	dfspedirectoare(argv[1]);
 
 	free(afis);
 
