@@ -12,7 +12,7 @@ Here are some of the projects that helped me understand linux pipes, IPCs and fi
 <h3>Pipe Graph</h3>
 
 <p>
-Pipegraph is used as `./pipegraph com1 arg1 ... argn ... comn arg1 ... argn` 
+Pipegraph is used as ```./pipegraph com1 arg1 ... argn ... comn arg1 ... argn``` 
   As shown in the scheme below, pipegraph has a main process that take input from the stdin, create some pipes
 </p>
 
